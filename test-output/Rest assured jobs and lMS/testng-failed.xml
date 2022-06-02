@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rest assured jobs and lMS]">
+  <test thread-count="5" name="Rest Assured testcases chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="JobsApi.TC5_Datadriventesting">
+        <methods>
+          <include name="postnewjob" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11"/>
+        </methods>
+      </class> <!-- JobsApi.TC5_Datadriventesting -->
+      <class name="JobsApi.TC5_delete">
+        <methods>
+          <include name="setup"/>
+          <include name="deletejob"/>
+        </methods>
+      </class> <!-- JobsApi.TC5_delete -->
+      <class name="JobsApi.TC1_Get_jobs">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="checkresponsetime"/>
+          <include name="getjobdetails"/>
+        </methods>
+      </class> <!-- JobsApi.TC1_Get_jobs -->
+    </classes>
+  </test> <!-- Rest Assured testcases chrome(failed) -->
+</suite> <!-- Failed suite [Rest assured jobs and lMS] -->

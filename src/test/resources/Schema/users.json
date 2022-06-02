@@ -1,0 +1,103 @@
+{
+    "$schema": "http://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "array",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "comments",
+        "education_pg",
+        "education_ug",
+        "linkedin_url",
+        "location",
+        "name",
+        "phone_number",
+        "time_zone",
+        "visa_status"
+    ],
+    "properties": {
+        "comments": {
+            "type": "string",
+            "default": "",
+            "title": "The comments Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "education_pg": {
+            "type": "string",
+            "default": "",
+            "title": "The education_pg Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "education_ug": {
+            "type": "string",
+            "default": "",
+            "title": "The education_ug Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "linkedin_url": {
+            "type": "string",
+            "default": "",
+            "title": "The linkedin_url Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "location": {
+            "type": "string",
+            "default": "",
+            "title": "The location Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "phone_number": {
+            "type": "integer",
+            "default": 0,
+            "title": "The phone_number Schema",
+            "examples": [
+                0
+            ]
+        },
+        "time_zone": {
+            "type": "string",
+            "default": "",
+            "title": "The time_zone Schema",
+            "examples": [
+                "string"
+            ]
+        },
+        "visa_status": {
+            "type": "string",
+            "default": "",
+            "title": "The visa_status Schema",
+            "examples": [
+                "string"
+            ]
+        }
+    },
+    "examples": [{
+        "comments": "string",
+        "education_pg": "string",
+        "education_ug": "string",
+        "linkedin_url": "string",
+        "location": "string",
+        "name": "string",
+        "phone_number": 0,
+        "time_zone": "string",
+        "visa_status": "string"
+    }]
+}

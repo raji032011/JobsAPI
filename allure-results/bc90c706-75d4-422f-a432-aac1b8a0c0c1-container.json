@@ -1,0 +1,1 @@
+{"uuid":"bc90c706-75d4-422f-a432-aac1b8a0c0c1","name":"JobsApi.TC5_delete","children":["b978c103-ae25-471b-8484-37635444fc8d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1652986378585,"stop":1652986378587}],"afters":[],"start":1652986363526,"stop":1652986378746}

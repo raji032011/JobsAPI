@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest assured jobs and lMS">
+    <test name="Rest Assured testcases chrome">
+       <parameter name="browser" value="chrome" />  
+         <classes>
+             <class name="JobsApi.TC1_Get_jobs"/>
+             <class name="JobsApi.TC5_Datadriventesting"/>
+             <class name="JobsApi.TC3_put_jobs"/>
+             <class name="JobsApi.TC5_delete"/>   
+          </classes>
+     </test> <!-- Test -->         
+</suite> <!-- Suite -->

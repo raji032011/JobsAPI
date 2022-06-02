@@ -1,0 +1,1 @@
+{"uuid":"cdb90342-c56c-4ddf-81dc-fbb972367840","name":"UserApi.TC5_deleteuser","children":["fc790ce8-281a-4c74-9261-cb119b54f9ad"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1651852486052,"stop":1651852486118}],"afters":[],"start":1651852486018,"stop":1651852488517}

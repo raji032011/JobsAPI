@@ -1,0 +1,1 @@
+{"uuid":"960dab06-46f7-49d5-880e-37912262dfb0","name":"JobsApi.TC1_post_jobs","children":["f42d9097-4dd9-477c-a974-9090ec3bb939"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1651716159643,"stop":1651716159677}],"afters":[],"start":1651716159623,"stop":1651716160936}

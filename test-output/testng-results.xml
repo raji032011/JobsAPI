@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Rest assured jobs and lMS" duration-ms="4473" started-at="2022-05-20T13:04:45 EDT" finished-at="2022-05-20T13:04:50 EDT">
+    <groups>
+    </groups>
+    <test name="Rest Assured testcases chrome" duration-ms="4473" started-at="2022-05-20T13:04:45 EDT" finished-at="2022-05-20T13:04:50 EDT">
+      <class name="JobsApi.TC5_Datadriventesting">
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="144" started-at="2022-05-20T13:04:48 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:48 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsads]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="110" started-at="2022-05-20T13:04:48 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:48 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3346]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsada]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="113" started-at="2022-05-20T13:04:48 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:48 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3347]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsaeq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="107" started-at="2022-05-20T13:04:48 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3348]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET18]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsads]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="119" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3349]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsadw]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="112" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3350]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsado]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="123" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3351]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsada]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="111" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3352]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsadq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="115" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3353]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsade]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="126" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3354]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsadz]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="103" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3355]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsadx]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+        <test-method status="PASS" signature="postnewjob(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:JobsApi.TC5_Datadriventesting@7cc0cdad]" name="postnewjob" duration-ms="107" started-at="2022-05-20T13:04:49 EDT" data-provider="empdataprovider" finished-at="2022-05-20T13:04:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3356]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SDET12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shakthidsadsada]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fulltime]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1hr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[seleniumengineer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewjob -->
+      </class> <!-- JobsApi.TC5_Datadriventesting -->
+      <class name="JobsApi.TC5_delete">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JobsApi.TC5_delete@4d5d943d]" name="setup" is-config="true" duration-ms="1" started-at="2022-05-20T13:04:50 EDT" finished-at="2022-05-20T13:04:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deletejob()[pri:0, instance:JobsApi.TC5_delete@4d5d943d]" name="deletejob" duration-ms="113" started-at="2022-05-20T13:04:50 EDT" finished-at="2022-05-20T13:04:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletejob -->
+      </class> <!-- JobsApi.TC5_delete -->
+      <class name="JobsApi.TC3_put_jobs">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JobsApi.TC3_put_jobs@7c7b252e]" name="setup" is-config="true" duration-ms="3" started-at="2022-05-20T13:04:49 EDT" finished-at="2022-05-20T13:04:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="putjob()[pri:0, instance:JobsApi.TC3_put_jobs@7c7b252e]" name="putjob" duration-ms="109" started-at="2022-05-20T13:04:49 EDT" finished-at="2022-05-20T13:04:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putjob -->
+      </class> <!-- JobsApi.TC3_put_jobs -->
+      <class name="JobsApi.TC1_Get_jobs">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="setup" is-config="true" duration-ms="41" started-at="2022-05-20T13:04:45 EDT" finished-at="2022-05-20T13:04:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getjobdetails()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="getjobdetails" is-config="true" duration-ms="1132" started-at="2022-05-20T13:04:45 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getjobdetails -->
+        <test-method status="PASS" signature="checkcontentType()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkcontentType" duration-ms="30" started-at="2022-05-20T13:04:46 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentType -->
+        <test-method status="PASS" signature="checkresponsebody()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkresponsebody" duration-ms="16" started-at="2022-05-20T13:04:46 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponsebody -->
+        <test-method status="PASS" signature="checkresponsetime()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkresponsetime" duration-ms="2" started-at="2022-05-20T13:04:46 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponsetime -->
+        <test-method status="PASS" signature="checkserverType()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkserverType" duration-ms="1" started-at="2022-05-20T13:04:46 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserverType -->
+        <test-method status="PASS" signature="checkstatuscode()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkstatuscode" duration-ms="1" started-at="2022-05-20T13:04:46 EDT" finished-at="2022-05-20T13:04:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+        <test-method status="PASS" signature="checkstatusline()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="checkstatusline" duration-ms="1" started-at="2022-05-20T13:04:47 EDT" finished-at="2022-05-20T13:04:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusline -->
+        <test-method status="PASS" signature="jasonschema()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="jasonschema" duration-ms="409" started-at="2022-05-20T13:04:47 EDT" finished-at="2022-05-20T13:04:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jasonschema -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:JobsApi.TC1_Get_jobs@6302bbb1]" name="teardown" is-config="true" duration-ms="1" started-at="2022-05-20T13:04:47 EDT" finished-at="2022-05-20T13:04:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- JobsApi.TC1_Get_jobs -->
+    </test> <!-- Rest Assured testcases chrome -->
+  </suite> <!-- Rest assured jobs and lMS -->
+</testng-results>

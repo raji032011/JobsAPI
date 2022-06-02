@@ -1,0 +1,1 @@
+{"uuid":"528a3e7d-8ead-4a05-995c-f63689404b31","name":"UserApi.TC3_postnewuser","children":["c026f6e0-a6a7-4940-917a-b6f8864ab9d8"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1651784277996,"stop":1651784278057}],"afters":[],"start":1651784277960,"stop":1651784280377}
